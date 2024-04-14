@@ -1,0 +1,18 @@
+html, #container{
+    background-color: #FF204E;
+}
+.card{
+    margin: 3%;
+    border: 1px solid #000;
+    padding: 3%;
+}
+#edit{
+    width: fit-content;
+    border-radius: 50%;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+#info-subContainer label, #experience-subContainer label, #education-subContainer label{
+    margin-bottom: 15px;
+}

@@ -1,0 +1,25 @@
+.display{
+    display: flex;
+    flex-direction: column;
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+}
+.ribbon{
+    background-color: black;
+    color: #fff;
+    border-radius: 15px;
+    padding-left: 15px;
+    margin-bottom: 10px;
+}
+label{
+    font-size: 20px;
+    margin-bottom: 7px;
+    margin-top: 8px;
+}
+.card{
+    text-align: center;
+    vertical-align: middle;
+    margin: 20px;
+}

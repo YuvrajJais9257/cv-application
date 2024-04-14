@@ -1,0 +1,27 @@
+#education-info{
+    display: flex;
+    flex-direction: column;
+}
+#education-info label{
+    flex-grow: 1;
+    float: left;
+}
+#education-info input{
+    flex-grow: 1;
+    float: right;
+    margin-bottom: 10px;
+}
+#calendar-icon{
+    position: absolute;
+    right: 0px;
+}
+.date-wrapper {
+    
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    width: 400px;
+    margin-bottom: 10px;
+}

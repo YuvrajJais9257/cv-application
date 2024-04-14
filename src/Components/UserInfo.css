@@ -1,0 +1,17 @@
+#user-info{
+    display: flex;
+    flex-direction: column;
+}
+#user-info label{
+    flex-grow: 1;
+    float: left;
+}
+#user-info input{
+    flex-grow: 1;
+    float: right;
+    margin-bottom: 10px;
+}
+input{
+    width: 400px;
+    margin-bottom: 10px;
+}
